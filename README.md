@@ -3,15 +3,15 @@
 Why use Softmax with Categorical Cross-Entropy, and NOT Sigmoid?
 Let’s break it down simply and clearly.
 
-🚦 Softmax vs Sigmoid — Why Softmax Wins in Multi-Class
-Feature	Sigmoid	Softmax
-Output Range	0 to 1	0 to 1
-Sum of Outputs	❌ Not necessarily 1	✅ Always = 1
-Class Type	Multi-label (independent classes)	Multi-class (1 correct class)
-Best For	"Is it A? Is it B?" (multiple yes/no)	"Which 1 class is correct?"
-🎯 In Multi-Class Classification (only one correct class)
 
-You need the network to choose one class out of many.
+🚦 Softmax vs Sigmoid — Why Softmax Wins in Multi-Class
+Feature	      Sigmoid  	                                Softmax
+Output Range	0 to 1	                                  0 to 1
+Sum of Outputs	❌ Not necessarily 1	                  ✅ Always = 1
+Class Type	Multi-label (independent classes)          	Multi-class (1 correct class)
+Best For	"Is it A? Is it B?" (multiple yes/no)	        "Which 1 class is correct?"
+
+🎯 In Multi-Class Classification (only one correct class), you need the network to choose one class out of many.
 That requires a probability distribution where:
 
 Only one class should dominate
