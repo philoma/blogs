@@ -46,3 +46,31 @@ With softmax, you get:
 🧠 Final One-Line Answer
 
 Sigmoid treats each class independently (multi-label), while Softmax forces competition and produces a probability distribution (multi-class). That's why Softmax is used with categorical cross-entropy.
+
+
+
+<img width="1501" height="749" alt="image" src="https://github.com/user-attachments/assets/4f6d5139-4765-4e1e-bef2-fdf47050bf34" />
+
+
+
+
+Left: The full surface 
+𝑧=𝑥2+𝑦2z=x2+y2 — a 3D paraboloid.
+
+Right: A horizontal slice (level curve) at 𝑧=1. 
+x2+y2=1 
+
+This shows the key idea:
+
+The function itself is not a circle — it's a curved 3D surface.
+
+But any constant height slice is a circle in the 
+𝑥𝑦 xy-plane. 
+
+
+
+The formula shown in the image is correct. It represents the multivariable chain rule when a function 
+ℎ depends on two inner functions f(x) and 𝑔(𝑥) both of which depend on 𝑥
+
+<img width="657" height="119" alt="image" src="https://github.com/user-attachments/assets/d0b748d0-174f-4354-985d-42dfb625d6de" />
+
