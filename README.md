@@ -74,3 +74,6 @@ The formula shown in the image is correct. It represents the multivariable chain
 
 <img width="657" height="119" alt="image" src="https://github.com/user-attachments/assets/d0b748d0-174f-4354-985d-42dfb625d6de" />
 
+
+
+<img width="903" height="345" alt="image" src="https://github.com/user-attachments/assets/c971e545-111a-4432-b265-337e8fd4e213" />
