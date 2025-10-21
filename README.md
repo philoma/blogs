@@ -77,3 +77,9 @@ The formula shown in the image is correct. It represents the multivariable chain
 
 
 <img width="903" height="345" alt="image" src="https://github.com/user-attachments/assets/c971e545-111a-4432-b265-337e8fd4e213" />
+
+
+
+Graph of Loss Function and Cost Function of (two weights and the loss) in 3D:
+
+<img width="919" height="615" alt="image" src="https://github.com/user-attachments/assets/a4391947-7c89-46a5-8dec-8111535750d5" />
