@@ -114,4 +114,4 @@ Problem with SGD:<br>
 
 <a href="https://www.analyticsvidhya.com/blog/2021/06/guide-to-gradient-descent-and-its-variants-with-python-implementation/"> guide-to-gradient-descent-and-its-variants </a>
 
-<img width="620" height="480" alt="image" src="https://github.com/user-attachments/assets/362bd0cf-e88a-4396-87fe-8fc5b4b4beb2" />
+![Demo GIF](https://editor.analyticsvidhya.com/uploads/885513eee0b_33163162ddd94900b7d9f5b049e9b7e3_mv2.gif)
