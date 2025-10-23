@@ -88,8 +88,8 @@ Graph of Loss Function and Complicated Cost Function of (two weights and the los
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0cab7bef-e4c4-4471-a89d-a4c98ffc958f" />
 
 <br> <br>
-🔹 The optimizer sees very noisy gradient updates every step.
-🔹 EWMA keeps a memory of the recent gradient direction — “weighted” so recent steps matter more.
+🔹 The optimizer sees very noisy gradient updates every step. <br>
+🔹 EWMA keeps a memory of the recent gradient direction — “weighted” so recent steps matter more. <br>
 🔹 This helps move the parameters smoothly toward the minimum, avoiding zig-zags.
 
 <br>
