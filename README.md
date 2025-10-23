@@ -111,3 +111,7 @@ Lessens zig-zag motion in vertical direction, increases movement in horizontal d
 Problem with SGD:<br>
 
 <img width="1438" height="936" alt="image" src="https://github.com/user-attachments/assets/eb933955-c5f7-4aeb-8216-01e98337c974" />
+
+<a href="https://www.analyticsvidhya.com/blog/2021/06/guide-to-gradient-descent-and-its-variants-with-python-implementation/"> guide-to-gradient-descent-and-its-variants </a>
+
+<img width="620" height="480" alt="image" src="https://github.com/user-attachments/assets/362bd0cf-e88a-4396-87fe-8fc5b4b4beb2" />
