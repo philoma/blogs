@@ -120,3 +120,9 @@ Problem with SGD:<br>
 <p align="center">
   <img src="https://editor.analyticsvidhya.com/uploads/885513eee0b_33163162ddd94900b7d9f5b049e9b7e3_mv2.gif" alt="Demo GIF" width="500"/>
 </p>
+
+<br>
+
+![Training Animation](https://editor.analyticsvidhya.com/uploads/885513eee0b_33163162ddd94900b7d9f5b049e9b7e3_mv2.gif)
+*Figure: Model training visualization.*
+
