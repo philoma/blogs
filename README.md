@@ -83,8 +83,11 @@ The formula shown in the image is correct. It represents the multivariable chain
 Graph of Loss Function and Complicated Cost Function of (two weights and the loss) in 3D:
 
 <img width="919" height="615" alt="image" src="https://github.com/user-attachments/assets/a4391947-7c89-46a5-8dec-8111535750d5" />
+<br><br>
 
-<br>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0cab7bef-e4c4-4471-a89d-a4c98ffc958f" />
+
+<br> <br>
 In SGD with Momentum, this horizontal velocity component makes the GD take such steps(comparatively fewer steps than normal SGD)
 <br>
 Lessens zig-zag motion in vertical direction, increases movement in horizontal direction <br>
