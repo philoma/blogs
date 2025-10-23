@@ -87,6 +87,7 @@ Graph of Loss Function and Complicated Cost Function of (two weights and the los
 <br>
 In SGD with Momentum, this horizontal velocity component makes the GD take such steps(comparatively fewer steps than normal SGD)
 <br>
+Lessens zig-zag motion in vertical direction, increases movement in horizontal direction <br>
 
 <img width="791" height="252" alt="image" src="https://github.com/user-attachments/assets/8b388fad-feae-41bf-b063-e018550d03de" />
 
