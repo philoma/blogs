@@ -123,4 +123,5 @@ Problem with SGD:<br>
   <em>Figure: Model training visualization.</em>
 </p>
 
+![GIF](https://raw.githubusercontent.com/philoma/blogs/main/assets/training.gif)
 
