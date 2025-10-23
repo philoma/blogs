@@ -88,6 +88,15 @@ Graph of Loss Function and Complicated Cost Function of (two weights and the los
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0cab7bef-e4c4-4471-a89d-a4c98ffc958f" />
 
 <br> <br>
+🔹 The optimizer sees very noisy gradient updates every step.
+🔹 EWMA keeps a memory of the recent gradient direction — “weighted” so recent steps matter more.
+🔹 This helps move the parameters smoothly toward the minimum, avoiding zig-zags.
+
+<br>
+
+❌ EWMA does not mean “average weight updates in reaching the final solution.”
+✅ It means “smoothed tracking of some quantity (like gradient or loss), which helps guide the optimizer toward the solution.”
+<br>
 In SGD with Momentum, this horizontal velocity component makes the GD take such steps(comparatively fewer steps than normal SGD)
 <br>
 Lessens zig-zag motion in vertical direction, increases movement in horizontal direction <br>
