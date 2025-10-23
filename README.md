@@ -104,3 +104,10 @@ Lessens zig-zag motion in vertical direction, increases movement in horizontal d
 <img width="791" height="252" alt="image" src="https://github.com/user-attachments/assets/8b388fad-feae-41bf-b063-e018550d03de" />
 
 <img width="738" height="195" alt="image" src="https://github.com/user-attachments/assets/ce9cb8b9-e64a-448b-b916-06884ef98f88" />
+
+
+<br>
+
+Problem with SGD:<br>
+
+<img width="1438" height="936" alt="image" src="https://github.com/user-attachments/assets/eb933955-c5f7-4aeb-8216-01e98337c974" />
