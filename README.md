@@ -129,3 +129,11 @@ Problem with SGD:<br>
 Initial layers extract low-level features, depiction of feature map using VGG16:  <br> 
 
 <img width="1564" height="1348" alt="image" src="https://github.com/user-attachments/assets/7baa6040-4502-4998-ae56-2593161ba6b7" />
+
+<img width="1564" height="1348" alt="image" src="https://github.com/user-attachments/assets/6667d7de-faf4-4e36-8c35-fb121e8c5b8c" />
+
+<img width="1555" height="1348" alt="image" src="https://github.com/user-attachments/assets/dd8aed60-9748-4fb9-8c16-f60c9cc14918" />
+
+<img width="1555" height="1348" alt="image" src="https://github.com/user-attachments/assets/9a2158f1-ae30-4ae5-85bd-c7b1d91a14fd" />
+
+<img width="1555" height="1348" alt="image" src="https://github.com/user-attachments/assets/30b61e2d-fc9e-4db4-89d7-c0099b91027d" />
