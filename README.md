@@ -137,3 +137,12 @@ Initial layers extract low-level features, depiction of feature map using VGG16:
 <img width="1555" height="1348" alt="image" src="https://github.com/user-attachments/assets/9a2158f1-ae30-4ae5-85bd-c7b1d91a14fd" />
 
 <img width="1555" height="1348" alt="image" src="https://github.com/user-attachments/assets/30b61e2d-fc9e-4db4-89d7-c0099b91027d" />
+
+
+
+
+
+
+
+<img width="1329" height="369" alt="image" src="https://github.com/user-attachments/assets/39ada98a-1aa2-4997-95cc-fb2f03085b35" />
+
