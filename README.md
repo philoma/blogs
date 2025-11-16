@@ -125,3 +125,7 @@ Problem with SGD:<br>
 
 ![GIF](https://raw.githubusercontent.com/philoma/blogs/main/assets/training.gif)
 
+<br>
+Initial layers extract low-level features, depiction of feature map using VGG16:  <br> 
+
+<img width="1564" height="1348" alt="image" src="https://github.com/user-attachments/assets/7baa6040-4502-4998-ae56-2593161ba6b7" />
