@@ -141,8 +141,8 @@ Initial layers extract low-level features, depiction of feature map using VGG16:
 
 
 
-
-
-
+<br>
+read: block5_conv3
+<br>
 <img width="1329" height="369" alt="image" src="https://github.com/user-attachments/assets/39ada98a-1aa2-4997-95cc-fb2f03085b35" />
 
