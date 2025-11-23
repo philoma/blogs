@@ -177,3 +177,13 @@ read: block5_conv3
 
 
 (120, 128, 128, 4):  120 images, each of size 128×128 pixels, and each pixel has 4 channels (RGBA), then the full dataset has shape:(120, 128, 128, 4)
+
+<br><br>
+
+One pixel at position (x, y) might look like: [120, 55, 210, 0]
+
+This means:
+
+Color is purpleish
+
+Alpha = 0 → pixel is transparent
