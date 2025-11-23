@@ -168,3 +168,12 @@ read: block5_conv3
          |                                           |
    → detect specific shapes/forms            → detect faces, wheels,
      (curvature, angles)                       objects, categories
+
+
+
+
+<br><br>
+
+
+
+(120, 128, 128, 4):  120 images, each of size 128×128 pixels, and each pixel has 4 channels (RGBA), then the full dataset has shape:(120, 128, 128, 4)
