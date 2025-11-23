@@ -146,3 +146,25 @@ read: block5_conv3
 <br>
 <img width="1329" height="369" alt="image" src="https://github.com/user-attachments/assets/39ada98a-1aa2-4997-95cc-fb2f03085b35" />
 
+<br><br>
+
+         HUMAN BRAIN (VISION)                    CNN
+
+   [ SIMPLE CELLS ]                       [ LOW-LEVEL FILTERS ]
+         |                                           |
+   → detect edges, lines,                    → detect edges, corners,
+     orientations                               textures
+         |                                           |
+   --------------------------------------------------------
+         |
+   [ COMPLEX CELLS ]                      [ MID-LEVEL FILTERS ]
+         |                                           |
+   → detect patterns from edges              → detect shapes, motifs,
+     (position-invariant)                      repeated textures
+         |                                           |
+   --------------------------------------------------------
+         |
+   [ HYPERCOMPLEX CELLS ]                  [ HIGH-LEVEL FEATURES ]
+         |                                           |
+   → detect specific shapes/forms            → detect faces, wheels,
+     (curvature, angles)                       objects, categories
